@@ -1,11 +1,11 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   background: linear-gradient(to bottom right, #669999 0%, #666699 100%);
 }
 #container {
   display: flex;
   justify-content: center;
-  margin-top: 15%;
+  margin-top: 3rem;
 }
 #calculator {
   width: 320px;
@@ -52,7 +52,7 @@ body {
   background-color: grey;
   border: 0px;
 }
-.number{
+.number {
   background-color: rgba(0, 0, 0, 0.3);
   color: white;
 }
